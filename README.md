@@ -2,8 +2,7 @@ https://guns.lol/5star
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/aporofobia/aporofobia"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Java-gold.svg"></a>
+    <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-gold.svg"></a>
     <a href="https://github.com/aporofobia/aporofobia/graphs/contributors"><img src="https://img.shields.io/github/contributors/aporofobia/aporofobia?color=blue"></a>
     <a href="https://github.com/aporofobia/aporofobia/stargazers"><img src="https://img.shields.io/github/stars/aporofobia/aporofobia.svg?logo=github"></a>
     <a href="https://github.com/aporofobia/aporofobia/network/members"><img src="https://img.shields.io/github/forks/aporofobia/aporofobia.svg?color=blue&logo=github"></a>
