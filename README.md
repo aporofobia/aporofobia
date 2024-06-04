@@ -1,4 +1,4 @@
-https://guns.lol/5star
+https://guns.lol/franz
 
 <!--   my-icons -->
 <p align="center">
@@ -30,13 +30,8 @@ https://guns.lol/5star
 
 <img src="https://github-readme-stats.vercel.app/api?username=aporofobia&show_icons=true">
 
-<a href="https://skyline.github.com/aporofobia/2024"><img src="./assets/2024.gif" alt="" width="auto" height="auto" /></a>
+<a href="https://skyline.github.com/maurerfranz/2024"><img src="./assets/2024.gif" alt="" width="auto" height="auto" /></a>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aporofobia" alt="aporofobia" />
-</p>
-
-### Stalkers
-![](https://count.getloli.com/get/@aporofobia.github.readme)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maurerfranz" alt="maurerfranz" />
 </p>
