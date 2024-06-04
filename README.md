@@ -6,7 +6,7 @@ https://guns.lol/franz
     <a href="https://github.com/maurerfranz/maurerfranz/graphs/contributors"><img src="https://img.shields.io/github/contributors/maurerfranz/maurerfranz?color=blue"></a>
     <a href="https://github.com/maurerfranz/maurerfranz/stargazers"><img src="https://img.shields.io/github/stars/maurerfranz/maurerfranz.svg?logo=github"></a>
     <a href="https://github.com/maurerfranz/maurerfranz/network/members"><img src="https://img.shields.io/github/forks/maurerfranz/maurerfranz.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=maurerfranz.maurerfranz" alt="stalkers"/>   
+    <a href="https://www.java.com"><img src="https://visitor-badge.laobi.icu/badge?page_id=maurerfranz.maurerfranz" alt="stalkers"/></a>
 </p>
 
 <!--   my-header-img -->
